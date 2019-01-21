@@ -1,4 +1,4 @@
-token=NTM0MzEzMTM1NzI1ODcxMTA0.Dx3xtg.B7kK1CZuUlw3JmO0Ir-nDYdPwWM
+token=
 owner=347379495528824832
 prefix= 4
 game= 4play , Minton
